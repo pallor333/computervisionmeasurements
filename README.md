@@ -45,6 +45,3 @@ When taking a picture the user should make sure:
 - Background should be monochromatic, pattern-less and contrasting with the color of the shirt. Ideally, the background should contrast as much as possible with the color of the shirt. This is because the edge detecting algorithm struggles to detect edges when the shirt and background are too similar in color.
 
 - Photo should be well lit with no shadows on or around the shirt.
-# Measurements-with-Computer-Vision-
-# computervisionmeasurements
-# computervisionmeasurements
