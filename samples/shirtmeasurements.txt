@@ -1,0 +1,6 @@
+Actual measurements of shirts laid flat from sample
+
+"black": {"shoulder": 16.5, "chest": 20, "length": 25.5},
+"purple": {"shoulder": 15, "chest": 17.5, "length":28},
+"white": {"shoulder": 14, "chest": 18, "length": 26},
+"green": {"shoulder": 16.5, "chest": 18.5, "length": 24.5}}
